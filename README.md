@@ -217,4 +217,4 @@ UnChrome is offered as a full free version, providing all features and updates w
 Take control of your online privacy today! Download UnChrome for free and browse the web securely without the fear of being tracked.
 
 ---
-**Last updated:** 2026-10-04 21:03:22 UTC
+**Last updated:** 2026-10-05 00:34:04 UTC
